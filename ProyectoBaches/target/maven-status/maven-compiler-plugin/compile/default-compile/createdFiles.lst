@@ -1,2 +1,12 @@
+Entidades\Atencion.class
+Mysql\ConexionDB.class
+UI\RegistroBache.class
+UI\GestionAtenciones.class
+UI\RegistroUsuario.class
+Mysql\Operaciones.class
 org\itson\proyectobaches\ProyectoBaches.class
 UI\PagPrincipal.class
+Entidades\Usuario.class
+UI\RegistroAutoridad.class
+Entidades\Autoridad.class
+Entidades\Bache.class
