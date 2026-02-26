@@ -4,14 +4,12 @@
 
 package org.itson.proyectobaches;
 
-import UI.PagPrincipal;
-
 /**
  *
  * @author axelm
  */
 public class ProyectoBaches {
     public static void main(String[] args) {
-        PagPrincipal paginaPrincipal = new PagPrincipal();
+        
     }
 }
