@@ -1,9 +1,10 @@
 package Mysql;
 
-import Entidades.Atencion;
-import Entidades.Autoridad;
-import Entidades.Bache;
-import Entidades.Usuario;
+import config.ConexionDB;
+import models.Atencion;
+import models.Autoridad;
+import models.Bache;
+import models.Usuario;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
